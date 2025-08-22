@@ -1,0 +1,16 @@
+{
+  "name": "Fly Turismo e Viagens",
+  "short_name": "Fly Turismo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#005a8d",
+  "description": "Catálogo de pacotes de viagens nacionais e internacionais.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
